@@ -1,2 +1,3 @@
 # TacticsBoardSystem
-TacticsBoardSystem simulating Football Manager tactics board, for UI class
+TacticsBoardSystem simulating Football Manager tactics board.
+Drag and drop.
